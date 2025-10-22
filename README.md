@@ -1,2 +1,2 @@
-# weather-app-python-project
-just a simple weather app developed in python 
+# Weather App
+A Python project that fetches real-time weather using OpenWeather API.
